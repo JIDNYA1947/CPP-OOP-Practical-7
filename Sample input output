@@ -1,0 +1,26 @@
+**Program 1: Function Overloading – Student Marks**
+
+Sample Input:
+No input required.
+
+Sample Output:
+Total Marks = 155
+Total Marks = 245
+
+**Program 2: Operator Overloading – Shopping Bill**
+
+Sample Input:
+No input required.
+
+Sample Output:
+Total Shopping Bill = Rs. 800
+
+**Program 3: Function Overriding – Smart Home System**
+
+Sample Input:
+No input required.
+
+Sample Output:
+Smart light is switched on.
+Smart fan is switched on.
+Air conditioner is switched on.
