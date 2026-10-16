@@ -10,8 +10,7 @@ To implement polymorphism in C++ using function overloading and function overrid
 - Run-time polymorphism
 - Function overloading
 - Function overriding
-- Inheritance and virtual functions
+- Virtual functions
 
-##About
-
-This practical explains how polymorphism allows the same function name or interface to perform different tasks in C++. It covers compile-time and run-time polymorphism using simple, real-life examples.
+## About
+This practical demonstrates polymorphism in C++ using simple, real-life examples. It explains how function overloading and function overriding allow the same function name to perform different tasks. Inheritance and virtual functions are used to demonstrate run-time polymorphism.
